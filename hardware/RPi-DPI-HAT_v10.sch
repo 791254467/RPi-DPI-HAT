@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE eagle SYSTEM "eagle.dtd">
-<eagle version="7.2.0">
+<eagle version="7.3.0">
 <drawing>
 <settings>
 <setting alwaysvectorfont="no"/>
 <setting verticaltext="up"/>
 </settings>
-<grid distance="0.05" unitdist="inch" unit="inch" style="lines" multiple="1" display="yes" altdistance="0.025" altunitdist="inch" altunit="inch"/>
+<grid distance="0.1" unitdist="inch" unit="inch" style="lines" multiple="1" display="no" altdistance="0.01" altunitdist="inch" altunit="inch"/>
 <layers>
 <layer number="1" name="Top" color="4" fill="1" visible="no" active="no"/>
 <layer number="2" name="Route2" color="1" fill="3" visible="no" active="no"/>
@@ -10489,7 +10489,7 @@ Robert Ely - https://github.com/robertely/dpi666</text>
 <wire x1="85.09" y1="57.15" x2="82.55" y2="57.15" width="0.1524" layer="91"/>
 <wire x1="85.09" y1="57.15" x2="121.92" y2="57.15" width="0.1524" layer="91"/>
 <junction x="85.09" y="57.15"/>
-<label x="121.92" y="57.15" size="1.778" layer="95" xref="yes"/>
+<label x="121.92" y="57.15" size="1.27" layer="95" xref="yes"/>
 <pinref part="C10" gate="C" pin="2"/>
 <wire x1="74.93" y1="38.1" x2="74.93" y2="30.48" width="0.1524" layer="91"/>
 <junction x="74.93" y="38.1"/>
