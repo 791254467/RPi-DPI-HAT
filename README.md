@@ -8,7 +8,9 @@ Raspberry Pi HAT (Hardware Attached on Top) for TFT-Displays with DPI (Display P
 ## Shop
 * [RPi-DPI-HAT](http://www.watterott.com/en/RPi-DPI-HAT)
 * [40-Pin FFC-Extenter](http://www.watterott.com/en/40-Pin-FFC-extenter)
+* [Bundle: RPi-DPI-HAT + 5" 800x480 Display without Touchpanel](http://www.watterott.com/en/5-800x480-RPi-DPI-HAT)
 * Compatible TFT-Displays (Touchpanel cannot be used):
+  * [5" 800x480 Display without Touchpanel](http://www.watterott.com/en/5-800x480-TFT-Display-without-TP)
   * [5" 800x480 Display with resitive Touchpanel](http://www.watterott.com/en/5-800x480-TFT-Display)
   * [7" 800x480 Display with resitive Touchpanel](http://www.watterott.com/en/7-800x480-TFT-Display)
 
