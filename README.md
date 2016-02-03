@@ -19,6 +19,7 @@ Raspberry Pi HAT (Hardware Attached on Top) for TFT-Displays with DPI (Display P
 * 40pin connector for TFT-Display
 * LED Backlight Boost Regulator (up to 35V)
 * Single 5V Power Supply via GPIO connector
+* Note: The HDMI and video output cannot be used at the same time with a DPI display.
 
 
 ## Hardware
