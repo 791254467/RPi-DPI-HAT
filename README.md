@@ -49,10 +49,26 @@ Raspberry Pi HAT (Hardware Attached on Top) for TFT-Displays with DPI (Display P
     dpi_group=2
     dpi_mode=87
     dpi_output_format=454661
+    hdmi_ignore_edid=0xa5000080
     hdmi_cvt=800 480 60 6 0 0 0
+    
+    # 0 degrees - normal
+    #display_rotate=0
+    # 90 degrees
+    #display_rotate=1
+    # 180 degrees
+    #display_rotate=2
+    # 270 degrees
+    #display_rotate=3
+    # horizontal flip
+    #display_rotate=0x10000
+    # vertical flip
+    #display_rotate=0x20000
     ```
 
 * Reboot the system:
     ```
     $ sudo reboot
     ```
+
+    *If there are problems then check, that you have not bootloader version 1.20150923, which has a bug. Upgrade the system with ```sudo apt-get update``` and ```sudo apt-get upgrade```.*
