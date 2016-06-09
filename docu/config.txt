@@ -21,6 +21,9 @@ display_default_lcd=1
 dpi_group=2
 dpi_mode=87
 
+# uncomment for 480x272 display (TFT043-3)
+#dpi_output_format=454661
+#hdmi_timings=480 0 1 41 2 272 0 2 10 2 0 0 0 60 0 9009000 3
 
 # uncomment for 800x480 display (TFT050-3, TFT070-4)
 #dpi_output_format=454661
@@ -30,3 +33,7 @@ dpi_mode=87
 # uncomment for 800x480 display (Adafruit 5" from Robert Ely)
 #dpi_output_format=458773
 #hdmi_timings=800 1 0 48 0 480 0 13 3 32 0 0 0 60 0 23040000 6
+
+# uncomment for 480x272 display (Adafruit 4.3")
+#dpi_output_format=520197
+#hdmi_timings=480 0 40 48 88 272 0 13 3 32 0 0 0 60 0 32000000 3
