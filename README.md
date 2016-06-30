@@ -1,7 +1,6 @@
 # RPi-DPI-HAT
 Raspberry Pi HAT (Hardware Attached on Top) for TFT-Displays with DPI (Display Parallel Interface).
 
-
 [![RPi-DPI-HAT](https://github.com/watterott/RPi-DPI-HAT/raw/master/hardware/RPi-DPI-HAT_v10.jpg)](http://www.watterott.com/en/RPi-DPI-HAT)
 
 
